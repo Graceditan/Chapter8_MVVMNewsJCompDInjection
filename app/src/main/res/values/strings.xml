@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter8_MVVMNewsJCompDInjection</string>
+    <string name="title_activity_detail_news">DetailNews</string>
+    <string name="title_activity_list_staf">ListStaf</string>
+    <string name="title_activity_staf">StafActivity</string>
+    <string name="title_activity_detail_staf">DetailStaf</string>
+</resources>
